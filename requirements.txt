@@ -1,2 +1,14 @@
-smolagents
-transformers
+python-dotenv
+gradio
+requests
+mistralai
+llama-index-core
+llama-index-embeddings-mistralai
+llama-index-llms-mistralai
+llama-index-readers-file
+pypdf
+supabase
+arxiv
+pymupdf
+wikipedia
+pgvector
